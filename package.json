@@ -1,0 +1,18 @@
+{
+  "name": "tailwindcss",
+  "version": "1.0.0",
+  "description": "Welcome to my Tailwind CSS journey! This README will document my progress, learnings, and projects as I explore and master Tailwind CSS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^4.0.2"
+  },
+  "dependencies": {
+    "@tailwindcss/cli": "^4.0.2"
+  }
+}
